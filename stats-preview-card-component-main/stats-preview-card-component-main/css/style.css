@@ -1,0 +1,57 @@
+body {
+  background-color: #090B1A;
+}
+
+span {
+  color: #c449c2;
+}
+
+p {
+  font-weight: 400;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+table {
+  border-spacing: 20px;
+}
+
+.card {
+  background-color: #1B1938;
+  width: 1080px;
+  height: 450px;
+  margin: 150px auto;
+}
+
+.first-half, .second-half {
+  width: 540px;
+  height: 450px;
+}
+
+.first-half {
+  font-family: 'Inter', sans-serif;
+  color: #FFFFFF;
+  position: relative;
+  left: 80px;
+  top: 90px;
+}
+
+.second-half {
+  position: relative;
+  bottom: 450px;
+  background-image: linear-gradient();
+  left: 540px;
+  color: #1B1938;
+  margin: 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3E52A3;
+}
